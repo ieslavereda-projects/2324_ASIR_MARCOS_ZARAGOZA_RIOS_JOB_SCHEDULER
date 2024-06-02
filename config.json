@@ -1,0 +1,34 @@
+{
+    "jobs": [
+        {
+            "task": "get_logged_in_users_and_send_email",
+            "interval": "minute",
+            "minutes": 30
+        },
+        {
+            "task": "clean_trash",
+            "interval": "hourly",
+            "minute": 30
+        },
+        {
+            "task": "backup_and_send_email",
+            "interval": "daily",
+            "time": "23:59"
+        }
+    ],
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "username": "marcoszaragoza2002@gmail.com",
+        "password": "wmas hyis mhem azai",
+        "from_addr": "marcoszaragoza2002@gmail.com",
+        "to_addrs": [
+            "tfgmarcosz@gmail.com"
+        ]
+    },
+    "daily_login_report": {
+        "hour": 23,
+        "minute": 59
+    },
+    "memory_alert_threshold": 25
+}
