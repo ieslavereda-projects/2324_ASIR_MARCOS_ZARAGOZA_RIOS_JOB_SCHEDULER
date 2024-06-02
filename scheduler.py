@@ -323,6 +323,8 @@ def check_memory_usage_and_alert(config):
 def main():
     ascii_banner = pyfiglet.figlet_format("Job Scheduler")
     print(ascii_banner)
+    print("Proyecto Final de Grado 2ASIR - Programado por Marcos Zaragoza")
+    print("")
 
     # carga la configuracion desde config.json
     config = load_config()
