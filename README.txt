@@ -26,7 +26,7 @@ como realizar copias de seguridad de carpetas, enviar correos electrónicos, mon
 
 1. Clonar el repositorio:
 
-    git clone https://github.com/usuario/job_scheduler.git
+    git clone https://github.com/ieslavereda-projects/2324_ASIR_MARCOS_ZARAGOZA_RIOS_JOB_SCHEDULER.git
     cd job_scheduler
     
 
