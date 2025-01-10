@@ -1,0 +1,50 @@
+{
+    "jobs": [
+        {
+            "id": "08068fa1-2075-410e-96bc-c3794ab4271c",
+            "task": "get_logged_in_users_and_send_email",
+            "interval": "minute",
+            "minutes": 2
+        },
+        {
+            "id": "e5e7daf8-83b5-4f2d-af09-4e174c105662",
+            "task": "clean_trash",
+            "interval": "hourly",
+            "minute": 4
+        },
+        {
+            "id": "37d89c9b-adf2-4e77-9870-28ef3c78e74f",
+            "task": "get_logged_in_users_and_send_email",
+            "interval": "daily",
+            "time": "22:56"
+        },
+        {
+            "id": "a0446295-74cb-4423-96fd-d0d3229944b5",
+            "task": "get_logged_in_users_and_send_email",
+            "interval": "minute",
+            "minutes": 1
+        },
+        {
+            "id": "8286f7ff-d7f9-417c-858c-f6bf37bcb0bb",
+            "task": "backup_and_transfer",
+            "interval": "daily",
+            "time": "23:12"
+        }
+    ],
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "username": null,
+        "password": null,
+        "from_addr": "marcoszaragoza2002@gmail.com",
+        "to_addrs": [
+            "tfgmarcosz@gmail.com"
+        ]
+    },
+    "daily_login_report": {
+        "hour": 23,
+        "minute": 59
+    },
+    "memory_alert_threshold": 1,
+    "last_execution": "2025-01-11 00:21:47"
+}

@@ -1,0 +1,1070 @@
+2025-01-10 23:12:34,558 - INFO - Tarea 'backup_and_transfer' programada diariamente a 18:11
+2025-01-10 23:12:34,558 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:12:34,559 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:12:34,559 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:12:34,559 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:12:34,559 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:12:34,559 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:12:34,559 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:12:34,588 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 23:12:34,589 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:12:34,590 - INFO -  * Restarting with stat
+2025-01-10 23:12:34,748 - INFO - Tarea 'backup_and_transfer' programada diariamente a 18:11
+2025-01-10 23:12:34,748 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:12:34,749 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:12:34,749 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:12:34,749 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:12:34,749 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:12:34,749 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:12:34,749 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:12:34,755 - WARNING -  * Debugger is active!
+2025-01-10 23:12:34,774 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:13:35,153 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:13:35,207 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:13:35,482 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:13:35,482 - INFO - Configuración guardada correctamente.
+2025-01-10 23:13:35,483 - INFO - Job: Limpiar Papelera
+2025-01-10 23:13:35,483 - INFO - Papelera limpiada
+2025-01-10 23:13:35,484 - INFO - Configuración guardada correctamente.
+2025-01-10 23:13:35,521 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:13:35,523 - INFO - Configuración guardada correctamente.
+2025-01-10 23:13:35,523 - INFO - Job: Limpiar Papelera
+2025-01-10 23:13:35,523 - INFO - Papelera limpiada
+2025-01-10 23:13:35,524 - INFO - Configuración guardada correctamente.
+2025-01-10 23:13:54,829 - INFO - 127.0.0.1 - - [10/Jan/2025 23:13:54] "GET /logs HTTP/1.1" 200 -
+2025-01-10 23:13:54,916 - INFO - 127.0.0.1 - - [10/Jan/2025 23:13:54] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:14:35,037 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:14:35,302 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:14:35,342 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:14:35,343 - INFO - Configuración guardada correctamente.
+2025-01-10 23:14:35,582 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:14:35,583 - INFO - Configuración guardada correctamente.
+2025-01-10 23:14:36,343 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:14:36,584 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:14:36,623 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:14:36,624 - INFO - Configuración guardada correctamente.
+2025-01-10 23:14:36,624 - INFO - Job: Limpiar Papelera
+2025-01-10 23:14:36,624 - INFO - Papelera limpiada
+2025-01-10 23:14:36,625 - INFO - Configuración guardada correctamente.
+2025-01-10 23:14:36,862 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:14:36,863 - INFO - Configuración guardada correctamente.
+2025-01-10 23:14:36,863 - INFO - Job: Limpiar Papelera
+2025-01-10 23:14:36,863 - INFO - Papelera limpiada
+2025-01-10 23:14:36,864 - INFO - Configuración guardada correctamente.
+2025-01-10 23:15:36,754 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:15:37,053 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:15:37,077 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:15:37,083 - INFO - Configuración guardada correctamente.
+2025-01-10 23:15:37,083 - INFO - Job: Limpiar Papelera
+2025-01-10 23:15:37,083 - INFO - Papelera limpiada
+2025-01-10 23:15:37,088 - INFO - Configuración guardada correctamente.
+2025-01-10 23:15:37,342 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:15:37,343 - INFO - Configuración guardada correctamente.
+2025-01-10 23:15:37,344 - INFO - Job: Limpiar Papelera
+2025-01-10 23:15:37,344 - INFO - Papelera limpiada
+2025-01-10 23:15:37,344 - INFO - Configuración guardada correctamente.
+2025-01-10 23:16:36,252 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:16:36,444 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:16:36,513 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:16:36,514 - INFO - Configuración guardada correctamente.
+2025-01-10 23:16:36,713 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:16:36,713 - INFO - Configuración guardada correctamente.
+2025-01-10 23:16:37,515 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:16:37,714 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:16:37,781 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:16:37,781 - INFO - Configuración guardada correctamente.
+2025-01-10 23:16:37,781 - INFO - Job: Limpiar Papelera
+2025-01-10 23:16:37,781 - INFO - Papelera limpiada
+2025-01-10 23:16:37,784 - INFO - Configuración guardada correctamente.
+2025-01-10 23:16:37,961 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:16:37,961 - INFO - Configuración guardada correctamente.
+2025-01-10 23:16:37,961 - INFO - Job: Limpiar Papelera
+2025-01-10 23:16:37,961 - INFO - Papelera limpiada
+2025-01-10 23:16:37,962 - INFO - Configuración guardada correctamente.
+2025-01-10 23:17:37,945 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:17:38,036 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:17:38,223 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:17:38,224 - INFO - Configuración guardada correctamente.
+2025-01-10 23:17:38,224 - INFO - Job: Limpiar Papelera
+2025-01-10 23:17:38,224 - INFO - Papelera limpiada
+2025-01-10 23:17:38,225 - INFO - Configuración guardada correctamente.
+2025-01-10 23:17:38,297 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:17:38,301 - INFO - Configuración guardada correctamente.
+2025-01-10 23:17:38,301 - INFO - Job: Limpiar Papelera
+2025-01-10 23:17:38,301 - INFO - Papelera limpiada
+2025-01-10 23:17:38,303 - INFO - Configuración guardada correctamente.
+2025-01-10 23:18:37,273 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:18:37,408 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:18:37,517 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:18:37,517 - INFO - Configuración guardada correctamente.
+2025-01-10 23:18:37,652 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:18:37,653 - INFO - Configuración guardada correctamente.
+2025-01-10 23:18:38,520 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:18:38,654 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:18:38,758 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:18:38,759 - INFO - Configuración guardada correctamente.
+2025-01-10 23:18:38,759 - INFO - Job: Limpiar Papelera
+2025-01-10 23:18:38,760 - INFO - Papelera limpiada
+2025-01-10 23:18:38,760 - INFO - Configuración guardada correctamente.
+2025-01-10 23:18:38,891 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:18:38,892 - INFO - Configuración guardada correctamente.
+2025-01-10 23:18:38,892 - INFO - Job: Limpiar Papelera
+2025-01-10 23:18:38,893 - INFO - Papelera limpiada
+2025-01-10 23:18:38,894 - INFO - Configuración guardada correctamente.
+2025-01-10 23:19:38,897 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:19:39,010 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:19:39,177 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:19:39,178 - INFO - Configuración guardada correctamente.
+2025-01-10 23:19:39,178 - INFO - Job: Limpiar Papelera
+2025-01-10 23:19:39,178 - INFO - Papelera limpiada
+2025-01-10 23:19:39,179 - INFO - Configuración guardada correctamente.
+2025-01-10 23:19:39,288 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:19:39,288 - INFO - Configuración guardada correctamente.
+2025-01-10 23:19:39,289 - INFO - Job: Limpiar Papelera
+2025-01-10 23:19:39,289 - INFO - Papelera limpiada
+2025-01-10 23:19:39,289 - INFO - Configuración guardada correctamente.
+2025-01-10 23:21:02,168 - INFO - Tarea 'backup_and_transfer' programada diariamente a 18:11
+2025-01-10 23:21:02,168 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:21:02,168 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:21:02,168 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:21:02,169 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:21:02,169 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:21:02,169 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:21:02,169 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:21:02,190 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 23:21:02,194 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:21:02,197 - INFO -  * Restarting with stat
+2025-01-10 23:21:02,336 - INFO - Tarea 'backup_and_transfer' programada diariamente a 18:11
+2025-01-10 23:21:02,337 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:21:02,337 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:21:02,337 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:21:02,337 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:21:02,337 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:21:02,337 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:21:02,337 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:21:02,346 - WARNING -  * Debugger is active!
+2025-01-10 23:21:02,350 - INFO -  * Debugger PIN: 102-652-230
+2025-01-10 23:22:02,306 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:22:02,461 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:22:02,590 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:22:02,593 - INFO - Configuración guardada correctamente.
+2025-01-10 23:22:02,594 - INFO - Job: Limpiar Papelera
+2025-01-10 23:22:02,594 - INFO - Papelera limpiada
+2025-01-10 23:22:02,595 - INFO - Configuración guardada correctamente.
+2025-01-10 23:22:02,830 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:22:02,831 - INFO - Configuración guardada correctamente.
+2025-01-10 23:22:02,831 - INFO - Job: Limpiar Papelera
+2025-01-10 23:22:02,832 - INFO - Papelera limpiada
+2025-01-10 23:22:02,832 - INFO - Configuración guardada correctamente.
+2025-01-10 23:23:02,700 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:23:03,028 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:23:03,041 - INFO - Configuración guardada correctamente.
+2025-01-10 23:23:03,041 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:23:03,109 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:23:03,336 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:23:03,338 - INFO - Configuración guardada correctamente.
+2025-01-10 23:23:03,345 - INFO - Job: Limpiar Papelera
+2025-01-10 23:23:03,345 - INFO - Papelera limpiada
+2025-01-10 23:23:03,345 - INFO - Configuración guardada correctamente.
+2025-01-10 23:23:03,428 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:23:03,432 - INFO - Configuración guardada correctamente.
+2025-01-10 23:23:03,432 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:23:03,769 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:23:03,775 - INFO - Configuración guardada correctamente.
+2025-01-10 23:23:03,803 - INFO - Job: Limpiar Papelera
+2025-01-10 23:23:03,804 - INFO - Papelera limpiada
+2025-01-10 23:23:03,838 - INFO - Configuración guardada correctamente.
+2025-01-10 23:23:14,782 - INFO - Tarea 'backup_and_transfer' programada diariamente a 18:11
+2025-01-10 23:23:14,783 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:23:14,783 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:23:14,783 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:23:14,783 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:23:14,783 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:23:14,783 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:23:14,783 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:23:14,792 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 23:23:14,792 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:23:14,793 - INFO -  * Restarting with stat
+2025-01-10 23:23:14,961 - INFO - Tarea 'backup_and_transfer' programada diariamente a 18:11
+2025-01-10 23:23:14,961 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:23:14,962 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:23:14,962 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:23:14,962 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:23:14,962 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:23:14,962 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:23:14,962 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:23:14,971 - WARNING -  * Debugger is active!
+2025-01-10 23:23:14,975 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:23:19,679 - INFO - 127.0.0.1 - - [10/Jan/2025 23:23:19] "GET /logs HTTP/1.1" 200 -
+2025-01-10 23:23:19,785 - INFO - 127.0.0.1 - - [10/Jan/2025 23:23:19] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:24:14,873 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:24:15,122 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:24:15,157 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:24:15,158 - INFO - Configuración guardada correctamente.
+2025-01-10 23:24:15,158 - INFO - Job: Limpiar Papelera
+2025-01-10 23:24:15,158 - INFO - Papelera limpiada
+2025-01-10 23:24:15,159 - INFO - Configuración guardada correctamente.
+2025-01-10 23:24:15,364 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:24:15,364 - INFO - Configuración guardada correctamente.
+2025-01-10 23:24:15,365 - INFO - Job: Limpiar Papelera
+2025-01-10 23:24:15,365 - INFO - Papelera limpiada
+2025-01-10 23:24:15,365 - INFO - Configuración guardada correctamente.
+2025-01-10 23:25:15,266 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:25:15,527 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:25:15,553 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:25:15,554 - INFO - Configuración guardada correctamente.
+2025-01-10 23:25:15,555 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:25:15,788 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:25:15,789 - INFO - Configuración guardada correctamente.
+2025-01-10 23:25:15,789 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:25:15,824 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:25:15,826 - INFO - Configuración guardada correctamente.
+2025-01-10 23:25:15,826 - INFO - Job: Limpiar Papelera
+2025-01-10 23:25:15,826 - INFO - Papelera limpiada
+2025-01-10 23:25:15,828 - INFO - Configuración guardada correctamente.
+2025-01-10 23:25:16,057 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:25:16,058 - INFO - Configuración guardada correctamente.
+2025-01-10 23:25:16,058 - INFO - Job: Limpiar Papelera
+2025-01-10 23:25:16,058 - INFO - Papelera limpiada
+2025-01-10 23:25:16,059 - INFO - Configuración guardada correctamente.
+2025-01-10 23:26:15,947 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:26:16,190 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:26:16,191 - INFO - Configuración guardada correctamente.
+2025-01-10 23:26:16,192 - INFO - Job: Limpiar Papelera
+2025-01-10 23:26:16,192 - INFO - Papelera limpiada
+2025-01-10 23:26:16,193 - INFO - Configuración guardada correctamente.
+2025-01-10 23:26:16,328 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:26:16,593 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:26:16,595 - INFO - Configuración guardada correctamente.
+2025-01-10 23:26:16,596 - INFO - Job: Limpiar Papelera
+2025-01-10 23:26:16,596 - INFO - Papelera limpiada
+2025-01-10 23:26:16,597 - INFO - Configuración guardada correctamente.
+2025-01-10 23:27:16,261 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:27:16,515 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:27:16,516 - INFO - Configuración guardada correctamente.
+2025-01-10 23:27:16,516 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:27:16,694 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:27:16,751 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:27:16,752 - INFO - Configuración guardada correctamente.
+2025-01-10 23:27:16,753 - INFO - Job: Limpiar Papelera
+2025-01-10 23:27:16,753 - INFO - Papelera limpiada
+2025-01-10 23:27:16,755 - INFO - Configuración guardada correctamente.
+2025-01-10 23:27:16,939 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:27:16,940 - INFO - Configuración guardada correctamente.
+2025-01-10 23:27:16,941 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:27:17,187 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:27:17,188 - INFO - Configuración guardada correctamente.
+2025-01-10 23:27:17,188 - INFO - Job: Limpiar Papelera
+2025-01-10 23:27:17,188 - INFO - Papelera limpiada
+2025-01-10 23:27:17,190 - INFO - Configuración guardada correctamente.
+2025-01-10 23:28:16,887 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:28:17,154 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:28:17,155 - INFO - Configuración guardada correctamente.
+2025-01-10 23:28:17,155 - INFO - Job: Limpiar Papelera
+2025-01-10 23:28:17,156 - INFO - Papelera limpiada
+2025-01-10 23:28:17,157 - INFO - Configuración guardada correctamente.
+2025-01-10 23:28:17,300 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:28:17,563 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:28:17,564 - INFO - Configuración guardada correctamente.
+2025-01-10 23:28:17,565 - INFO - Job: Limpiar Papelera
+2025-01-10 23:28:17,565 - INFO - Papelera limpiada
+2025-01-10 23:28:17,566 - INFO - Configuración guardada correctamente.
+2025-01-10 23:29:16,995 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:29:17,244 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:29:17,246 - INFO - Configuración guardada correctamente.
+2025-01-10 23:29:17,508 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:29:17,750 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:29:17,751 - INFO - Configuración guardada correctamente.
+2025-01-10 23:29:17,751 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:29:18,002 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:29:18,002 - INFO - Configuración guardada correctamente.
+2025-01-10 23:29:18,003 - INFO - Job: Limpiar Papelera
+2025-01-10 23:29:18,003 - INFO - Papelera limpiada
+2025-01-10 23:29:18,004 - INFO - Configuración guardada correctamente.
+2025-01-10 23:29:18,246 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:29:18,489 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:29:18,490 - INFO - Configuración guardada correctamente.
+2025-01-10 23:29:18,490 - INFO - Job: Limpiar Papelera
+2025-01-10 23:29:18,491 - INFO - Papelera limpiada
+2025-01-10 23:29:18,491 - INFO - Configuración guardada correctamente.
+2025-01-10 23:30:18,392 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:30:18,671 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:30:18,671 - INFO - Configuración guardada correctamente.
+2025-01-10 23:30:18,671 - INFO - Job: Limpiar Papelera
+2025-01-10 23:30:18,671 - INFO - Papelera limpiada
+2025-01-10 23:30:18,674 - INFO - Configuración guardada correctamente.
+2025-01-10 23:30:18,980 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:30:19,244 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:30:19,245 - INFO - Configuración guardada correctamente.
+2025-01-10 23:30:19,246 - INFO - Job: Limpiar Papelera
+2025-01-10 23:30:19,246 - INFO - Papelera limpiada
+2025-01-10 23:30:19,247 - INFO - Configuración guardada correctamente.
+2025-01-10 23:31:17,330 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:31:17,597 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:31:17,598 - INFO - Configuración guardada correctamente.
+2025-01-10 23:31:18,152 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:31:18,416 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:31:18,416 - INFO - Configuración guardada correctamente.
+2025-01-10 23:31:19,417 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:31:19,600 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:31:19,690 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:31:19,692 - INFO - Configuración guardada correctamente.
+2025-01-10 23:31:19,692 - INFO - Job: Limpiar Papelera
+2025-01-10 23:31:19,692 - INFO - Papelera limpiada
+2025-01-10 23:31:19,693 - INFO - Configuración guardada correctamente.
+2025-01-10 23:31:19,863 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:31:19,864 - INFO - Configuración guardada correctamente.
+2025-01-10 23:31:19,865 - INFO - Job: Limpiar Papelera
+2025-01-10 23:31:19,865 - INFO - Papelera limpiada
+2025-01-10 23:31:19,866 - INFO - Configuración guardada correctamente.
+2025-01-10 23:32:19,790 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:32:19,938 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:32:20,120 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:32:20,123 - INFO - Configuración guardada correctamente.
+2025-01-10 23:32:20,123 - INFO - Job: Limpiar Papelera
+2025-01-10 23:32:20,123 - INFO - Papelera limpiada
+2025-01-10 23:32:20,125 - INFO - Configuración guardada correctamente.
+2025-01-10 23:32:20,246 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:32:20,248 - INFO - Configuración guardada correctamente.
+2025-01-10 23:32:20,249 - INFO - Job: Limpiar Papelera
+2025-01-10 23:32:20,249 - INFO - Papelera limpiada
+2025-01-10 23:32:20,250 - INFO - Configuración guardada correctamente.
+2025-01-10 23:32:34,074 - INFO -  * Detected change in '/home/marcos/2324_ASIR_MARCOS_ZARAGOZA_RIOS_JOB_SCHEDULER/scheduler.py', reloading
+2025-01-10 23:32:34,189 - INFO -  * Restarting with stat
+2025-01-10 23:32:34,525 - INFO - Tarea 'backup_and_transfer' programada diariamente a 18:11
+2025-01-10 23:32:34,528 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:32:34,528 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:32:34,528 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:32:34,528 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:32:34,528 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:32:34,528 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:32:34,528 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:32:34,556 - WARNING -  * Debugger is active!
+2025-01-10 23:32:34,559 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:32:39,274 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:39] "GET /logs HTTP/1.1" 200 -
+2025-01-10 23:32:39,336 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:39] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:32:40,086 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:40] "GET / HTTP/1.1" 200 -
+2025-01-10 23:32:40,192 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:40] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:32:41,666 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:41] "GET /jobs HTTP/1.1" 200 -
+2025-01-10 23:32:41,785 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:41] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:32:45,997 - INFO - Configuración guardada correctamente.
+2025-01-10 23:32:45,998 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:32:45,998 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:32:45,998 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:32:45,998 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:32:45,998 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:32:45,999 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:32:45,999 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:32:45,999 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:45] "[32mPOST /delete_job HTTP/1.1[0m" 302 -
+2025-01-10 23:32:46,034 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:46] "GET /jobs HTTP/1.1" 200 -
+2025-01-10 23:32:46,146 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:46] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:32:47,852 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:47] "GET / HTTP/1.1" 200 -
+2025-01-10 23:32:47,967 - INFO - 127.0.0.1 - - [10/Jan/2025 23:32:47] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:33:19,268 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:33:19,564 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:33:19,565 - INFO - Configuración guardada correctamente.
+2025-01-10 23:33:20,568 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:33:20,886 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:33:20,886 - INFO - Configuración guardada correctamente.
+2025-01-10 23:33:20,887 - INFO - Job: Limpiar Papelera
+2025-01-10 23:33:20,887 - INFO - Papelera limpiada
+2025-01-10 23:33:20,888 - INFO - Configuración guardada correctamente.
+2025-01-10 23:33:46,744 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:33:47,024 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:33:47,025 - INFO - Configuración guardada correctamente.
+2025-01-10 23:33:47,025 - INFO - Job: Limpiar Papelera
+2025-01-10 23:33:47,025 - INFO - Papelera limpiada
+2025-01-10 23:33:47,026 - INFO - Configuración guardada correctamente.
+2025-01-10 23:34:21,067 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:34:21,309 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:34:21,311 - INFO - Configuración guardada correctamente.
+2025-01-10 23:34:21,311 - INFO - Job: Limpiar Papelera
+2025-01-10 23:34:21,311 - INFO - Papelera limpiada
+2025-01-10 23:34:21,312 - INFO - Configuración guardada correctamente.
+2025-01-10 23:34:46,274 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:34:46,534 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:34:46,535 - INFO - Configuración guardada correctamente.
+2025-01-10 23:34:47,536 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:34:47,802 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:34:47,803 - INFO - Configuración guardada correctamente.
+2025-01-10 23:34:47,803 - INFO - Job: Limpiar Papelera
+2025-01-10 23:34:47,803 - INFO - Papelera limpiada
+2025-01-10 23:34:47,804 - INFO - Configuración guardada correctamente.
+2025-01-10 23:35:20,525 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:35:20,768 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:35:20,768 - INFO - Configuración guardada correctamente.
+2025-01-10 23:35:21,770 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:35:22,013 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:35:22,014 - INFO - Configuración guardada correctamente.
+2025-01-10 23:35:22,014 - INFO - Job: Limpiar Papelera
+2025-01-10 23:35:22,014 - INFO - Papelera limpiada
+2025-01-10 23:35:22,015 - INFO - Configuración guardada correctamente.
+2025-01-10 23:35:47,897 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:35:48,146 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:35:48,147 - INFO - Configuración guardada correctamente.
+2025-01-10 23:35:48,148 - INFO - Job: Limpiar Papelera
+2025-01-10 23:35:48,148 - INFO - Papelera limpiada
+2025-01-10 23:35:48,149 - INFO - Configuración guardada correctamente.
+2025-01-10 23:36:22,215 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:36:22,459 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:36:22,461 - INFO - Configuración guardada correctamente.
+2025-01-10 23:36:22,461 - INFO - Job: Limpiar Papelera
+2025-01-10 23:36:22,461 - INFO - Papelera limpiada
+2025-01-10 23:36:22,463 - INFO - Configuración guardada correctamente.
+2025-01-10 23:36:47,297 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:36:47,588 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:36:47,592 - INFO - Configuración guardada correctamente.
+2025-01-10 23:36:48,594 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:36:48,876 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:36:48,878 - INFO - Configuración guardada correctamente.
+2025-01-10 23:36:48,879 - INFO - Job: Limpiar Papelera
+2025-01-10 23:36:48,879 - INFO - Papelera limpiada
+2025-01-10 23:36:48,879 - INFO - Configuración guardada correctamente.
+2025-01-10 23:37:21,536 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:37:21,796 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:37:21,798 - INFO - Configuración guardada correctamente.
+2025-01-10 23:37:22,798 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:37:23,078 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:37:23,079 - INFO - Configuración guardada correctamente.
+2025-01-10 23:37:23,079 - INFO - Job: Limpiar Papelera
+2025-01-10 23:37:23,079 - INFO - Papelera limpiada
+2025-01-10 23:37:23,080 - INFO - Configuración guardada correctamente.
+2025-01-10 23:37:48,986 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:37:49,254 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:37:49,254 - INFO - Configuración guardada correctamente.
+2025-01-10 23:37:49,254 - INFO - Job: Limpiar Papelera
+2025-01-10 23:37:49,255 - INFO - Papelera limpiada
+2025-01-10 23:37:49,255 - INFO - Configuración guardada correctamente.
+2025-01-10 23:38:23,165 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:38:23,434 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:38:23,435 - INFO - Configuración guardada correctamente.
+2025-01-10 23:38:23,435 - INFO - Job: Limpiar Papelera
+2025-01-10 23:38:23,435 - INFO - Papelera limpiada
+2025-01-10 23:38:23,436 - INFO - Configuración guardada correctamente.
+2025-01-10 23:38:48,455 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:38:48,696 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:38:48,696 - INFO - Configuración guardada correctamente.
+2025-01-10 23:38:49,702 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:38:49,975 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:38:49,976 - INFO - Configuración guardada correctamente.
+2025-01-10 23:38:49,976 - INFO - Job: Limpiar Papelera
+2025-01-10 23:38:49,976 - INFO - Papelera limpiada
+2025-01-10 23:38:49,976 - INFO - Configuración guardada correctamente.
+2025-01-10 23:39:22,503 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:39:22,745 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:39:22,746 - INFO - Configuración guardada correctamente.
+2025-01-10 23:39:23,747 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:39:23,985 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:39:23,986 - INFO - Configuración guardada correctamente.
+2025-01-10 23:39:23,986 - INFO - Job: Limpiar Papelera
+2025-01-10 23:39:23,987 - INFO - Papelera limpiada
+2025-01-10 23:39:23,987 - INFO - Configuración guardada correctamente.
+2025-01-10 23:39:50,268 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:39:50,549 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:39:50,549 - INFO - Configuración guardada correctamente.
+2025-01-10 23:39:50,549 - INFO - Job: Limpiar Papelera
+2025-01-10 23:39:50,550 - INFO - Papelera limpiada
+2025-01-10 23:39:50,551 - INFO - Configuración guardada correctamente.
+2025-01-10 23:40:24,212 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:40:24,474 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:40:24,475 - INFO - Configuración guardada correctamente.
+2025-01-10 23:40:24,475 - INFO - Job: Limpiar Papelera
+2025-01-10 23:40:24,475 - INFO - Papelera limpiada
+2025-01-10 23:40:24,476 - INFO - Configuración guardada correctamente.
+2025-01-10 23:40:49,633 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:40:49,921 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:40:49,926 - INFO - Configuración guardada correctamente.
+2025-01-10 23:40:50,927 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:40:51,193 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:40:51,197 - INFO - Configuración guardada correctamente.
+2025-01-10 23:40:51,197 - INFO - Job: Limpiar Papelera
+2025-01-10 23:40:51,197 - INFO - Papelera limpiada
+2025-01-10 23:40:51,198 - INFO - Configuración guardada correctamente.
+2025-01-10 23:41:23,605 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:41:23,875 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:41:23,875 - INFO - Configuración guardada correctamente.
+2025-01-10 23:41:24,876 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:41:25,126 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:41:25,127 - INFO - Configuración guardada correctamente.
+2025-01-10 23:41:25,127 - INFO - Job: Limpiar Papelera
+2025-01-10 23:41:25,127 - INFO - Papelera limpiada
+2025-01-10 23:41:25,128 - INFO - Configuración guardada correctamente.
+2025-01-10 23:41:51,257 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:41:51,502 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:41:51,503 - INFO - Configuración guardada correctamente.
+2025-01-10 23:41:51,504 - INFO - Job: Limpiar Papelera
+2025-01-10 23:41:51,504 - INFO - Papelera limpiada
+2025-01-10 23:41:51,504 - INFO - Configuración guardada correctamente.
+2025-01-10 23:42:25,223 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:42:25,467 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:42:25,467 - INFO - Configuración guardada correctamente.
+2025-01-10 23:42:25,468 - INFO - Job: Limpiar Papelera
+2025-01-10 23:42:25,468 - INFO - Papelera limpiada
+2025-01-10 23:42:25,469 - INFO - Configuración guardada correctamente.
+2025-01-10 23:42:50,738 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:42:51,105 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:42:51,114 - INFO - Configuración guardada correctamente.
+2025-01-10 23:42:51,176 - INFO -  * Detected change in '/home/marcos/2324_ASIR_MARCOS_ZARAGOZA_RIOS_JOB_SCHEDULER/config_utils.py', reloading
+2025-01-10 23:42:51,340 - INFO -  * Restarting with stat
+2025-01-10 23:42:51,541 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:42:51,541 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:42:51,541 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:42:51,541 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:42:51,541 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:42:51,542 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:42:51,542 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:42:51,548 - WARNING -  * Debugger is active!
+2025-01-10 23:42:51,555 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:43:24,649 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:43:25,001 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:43:25,003 - INFO - Configuración guardada correctamente.
+2025-01-10 23:43:26,004 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:43:26,307 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:43:26,308 - INFO - Configuración guardada correctamente.
+2025-01-10 23:43:26,308 - INFO - Job: Limpiar Papelera
+2025-01-10 23:43:26,309 - INFO - Papelera limpiada
+2025-01-10 23:43:26,309 - INFO - Configuración guardada correctamente.
+2025-01-10 23:43:52,002 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:43:52,269 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:43:52,270 - INFO - Configuración guardada correctamente.
+2025-01-10 23:43:52,270 - INFO - Job: Limpiar Papelera
+2025-01-10 23:43:52,270 - INFO - Papelera limpiada
+2025-01-10 23:43:52,286 - INFO - Configuración guardada correctamente.
+2025-01-10 23:44:26,361 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:44:26,623 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:44:26,624 - INFO - Configuración guardada correctamente.
+2025-01-10 23:44:26,624 - INFO - Job: Limpiar Papelera
+2025-01-10 23:44:26,624 - INFO - Papelera limpiada
+2025-01-10 23:44:26,627 - INFO - Configuración guardada correctamente.
+2025-01-10 23:44:52,259 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:44:52,591 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:44:52,592 - INFO - Configuración guardada correctamente.
+2025-01-10 23:44:53,593 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:44:53,882 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:44:53,882 - INFO - Configuración guardada correctamente.
+2025-01-10 23:44:53,883 - INFO - Job: Limpiar Papelera
+2025-01-10 23:44:53,883 - INFO - Papelera limpiada
+2025-01-10 23:44:53,883 - INFO - Configuración guardada correctamente.
+2025-01-10 23:45:25,516 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:45:25,786 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:45:25,786 - INFO - Configuración guardada correctamente.
+2025-01-10 23:45:26,799 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:45:27,059 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:45:27,060 - INFO - Configuración guardada correctamente.
+2025-01-10 23:45:27,060 - INFO - Job: Limpiar Papelera
+2025-01-10 23:45:27,061 - INFO - Papelera limpiada
+2025-01-10 23:45:27,061 - INFO - Configuración guardada correctamente.
+2025-01-10 23:45:54,059 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:45:54,310 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:45:54,312 - INFO - Configuración guardada correctamente.
+2025-01-10 23:45:54,312 - INFO - Job: Limpiar Papelera
+2025-01-10 23:45:54,312 - INFO - Papelera limpiada
+2025-01-10 23:45:54,319 - INFO - Configuración guardada correctamente.
+2025-01-10 23:46:27,644 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:46:27,949 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:46:27,949 - INFO - Configuración guardada correctamente.
+2025-01-10 23:46:27,950 - INFO - Job: Limpiar Papelera
+2025-01-10 23:46:27,950 - INFO - Papelera limpiada
+2025-01-10 23:46:27,950 - INFO - Configuración guardada correctamente.
+2025-01-10 23:46:53,660 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:46:53,903 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:46:53,904 - INFO - Configuración guardada correctamente.
+2025-01-10 23:46:54,905 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:46:55,175 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:46:55,175 - INFO - Configuración guardada correctamente.
+2025-01-10 23:46:55,175 - INFO - Job: Limpiar Papelera
+2025-01-10 23:46:55,175 - INFO - Papelera limpiada
+2025-01-10 23:46:55,176 - INFO - Configuración guardada correctamente.
+2025-01-10 23:47:08,249 - INFO -  * Detected change in '/home/marcos/2324_ASIR_MARCOS_ZARAGOZA_RIOS_JOB_SCHEDULER/scheduler.py', reloading
+2025-01-10 23:47:08,395 - INFO -  * Restarting with stat
+2025-01-10 23:47:08,664 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:47:08,665 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:47:08,665 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:47:08,665 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:47:08,665 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:47:08,665 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:47:08,665 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:47:08,676 - WARNING -  * Debugger is active!
+2025-01-10 23:47:08,696 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:47:20,421 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:47:20,422 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:47:20,422 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:47:20,422 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:47:20,422 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:47:20,422 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:47:20,422 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:47:20,431 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 23:47:20,431 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:47:20,432 - INFO -  * Restarting with stat
+2025-01-10 23:47:20,598 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:47:20,598 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:47:20,598 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:47:20,598 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:47:20,598 - INFO - Tarea 'clean_trash' programada cada 1 minutos
+2025-01-10 23:47:20,598 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:47:20,598 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:47:20,606 - WARNING -  * Debugger is active!
+2025-01-10 23:47:20,609 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:47:25,901 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:25] "GET / HTTP/1.1" 200 -
+2025-01-10 23:47:25,955 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:25] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:47:28,217 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:28] "GET /jobs HTTP/1.1" 200 -
+2025-01-10 23:47:28,298 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:28] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:47:30,055 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:30] "GET /jobs HTTP/1.1" 200 -
+2025-01-10 23:47:30,144 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:30] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:47:34,901 - INFO - Configuración guardada correctamente.
+2025-01-10 23:47:34,905 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:47:34,905 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:47:34,905 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:47:34,905 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:47:34,905 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:47:34,905 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:47:34,906 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:34] "[32mPOST /delete_job HTTP/1.1[0m" 302 -
+2025-01-10 23:47:34,920 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:34] "GET /jobs HTTP/1.1" 200 -
+2025-01-10 23:47:35,037 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:35] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:47:36,825 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:36] "GET / HTTP/1.1" 200 -
+2025-01-10 23:47:36,915 - INFO - 127.0.0.1 - - [10/Jan/2025 23:47:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:48:20,829 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:48:21,092 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:48:21,093 - INFO - Configuración guardada correctamente.
+2025-01-10 23:48:21,093 - INFO - Job: Limpiar Papelera
+2025-01-10 23:48:21,093 - INFO - Papelera limpiada
+2025-01-10 23:48:21,094 - INFO - Configuración guardada correctamente.
+2025-01-10 23:48:35,611 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:48:35,852 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:48:35,853 - INFO - Configuración guardada correctamente.
+2025-01-10 23:49:10,558 - INFO -  * Detected change in '/home/marcos/2324_ASIR_MARCOS_ZARAGOZA_RIOS_JOB_SCHEDULER/tasks.py', reloading
+2025-01-10 23:49:10,596 - INFO -  * Restarting with stat
+2025-01-10 23:49:11,029 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:49:11,030 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:49:11,030 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:49:11,030 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:49:11,030 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:49:11,030 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:49:11,046 - WARNING -  * Debugger is active!
+2025-01-10 23:49:11,056 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:49:14,099 - INFO - 127.0.0.1 - - [10/Jan/2025 23:49:14] "GET / HTTP/1.1" 200 -
+2025-01-10 23:49:14,205 - INFO - 127.0.0.1 - - [10/Jan/2025 23:49:14] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-01-10 23:49:20,902 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:49:21,144 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:49:21,144 - INFO - Configuración guardada correctamente.
+2025-01-10 23:49:22,150 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:49:22,392 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:49:22,393 - INFO - Configuración guardada correctamente.
+2025-01-10 23:49:22,393 - INFO - Job: Limpiar Papelera
+2025-01-10 23:49:22,394 - INFO - Papelera limpiada
+2025-01-10 23:49:22,394 - INFO - Configuración guardada correctamente.
+2025-01-10 23:50:11,135 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:50:11,395 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:50:11,396 - INFO - Configuración guardada correctamente.
+2025-01-10 23:50:22,691 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:50:22,957 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:50:22,958 - INFO - Configuración guardada correctamente.
+2025-01-10 23:50:22,958 - INFO - Job: Limpiar Papelera
+2025-01-10 23:50:22,958 - INFO - Papelera limpiada
+2025-01-10 23:50:22,958 - INFO - Configuración guardada correctamente.
+2025-01-10 23:51:11,205 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:51:11,469 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:51:11,470 - INFO - Configuración guardada correctamente.
+2025-01-10 23:51:12,472 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:51:12,724 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:51:12,725 - INFO - Configuración guardada correctamente.
+2025-01-10 23:51:21,398 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:51:21,670 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:51:21,670 - INFO - Configuración guardada correctamente.
+2025-01-10 23:51:23,672 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:51:23,978 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:51:23,979 - INFO - Configuración guardada correctamente.
+2025-01-10 23:51:23,979 - INFO - Job: Limpiar Papelera
+2025-01-10 23:51:23,980 - INFO - Papelera limpiada
+2025-01-10 23:51:23,984 - INFO - Configuración guardada correctamente.
+2025-01-10 23:52:13,603 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:52:13,877 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:52:13,881 - INFO - Configuración guardada correctamente.
+2025-01-10 23:52:24,284 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:52:24,571 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:52:24,571 - INFO - Configuración guardada correctamente.
+2025-01-10 23:52:24,571 - INFO - Job: Limpiar Papelera
+2025-01-10 23:52:24,572 - INFO - Papelera limpiada
+2025-01-10 23:52:24,573 - INFO - Configuración guardada correctamente.
+2025-01-10 23:53:11,534 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:53:11,852 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:53:11,853 - INFO - Configuración guardada correctamente.
+2025-01-10 23:53:13,628 - INFO -  * Detected change in '/home/marcos/2324_ASIR_MARCOS_ZARAGOZA_RIOS_JOB_SCHEDULER/config_utils.py', reloading
+2025-01-10 23:53:13,689 - INFO -  * Restarting with stat
+2025-01-10 23:53:14,394 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:53:14,395 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:53:14,395 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:53:14,396 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:53:14,396 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:53:14,396 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:53:14,418 - WARNING -  * Debugger is active!
+2025-01-10 23:53:14,454 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:53:22,381 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:53:22,628 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:53:22,629 - INFO - Configuración guardada correctamente.
+2025-01-10 23:53:24,648 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:53:24,917 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:53:24,917 - INFO - Configuración guardada correctamente.
+2025-01-10 23:53:24,918 - INFO - Job: Limpiar Papelera
+2025-01-10 23:53:24,918 - INFO - Papelera limpiada
+2025-01-10 23:53:24,918 - INFO - Configuración guardada correctamente.
+2025-01-10 23:54:04,479 - INFO -  * Detected change in '/home/marcos/2324_ASIR_MARCOS_ZARAGOZA_RIOS_JOB_SCHEDULER/scheduler.py', reloading
+2025-01-10 23:54:04,509 - INFO -  * Restarting with stat
+2025-01-10 23:54:04,751 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:54:04,753 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:54:04,755 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:54:04,755 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:54:04,755 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:54:04,755 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:54:04,776 - WARNING -  * Debugger is active!
+2025-01-10 23:54:04,786 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:54:15,007 - INFO -  * Detected change in '/home/marcos/2324_ASIR_MARCOS_ZARAGOZA_RIOS_JOB_SCHEDULER/scheduler.py', reloading
+2025-01-10 23:54:15,072 - INFO -  * Restarting with stat
+2025-01-10 23:54:15,745 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 2 minutos
+2025-01-10 23:54:15,745 - INFO - Tarea 'clean_trash' programada cada hora en el minuto 4
+2025-01-10 23:54:15,745 - INFO - Tarea 'get_logged_in_users_and_send_email' programada diariamente a 22:56
+2025-01-10 23:54:15,745 - INFO - Tarea 'get_logged_in_users_and_send_email' programada cada 1 minutos
+2025-01-10 23:54:15,745 - INFO - Tarea 'backup_and_transfer' programada diariamente a 23:12
+2025-01-10 23:54:15,745 - INFO - Todas las tareas han sido programadas.
+2025-01-10 23:54:15,779 - WARNING -  * Debugger is active!
+2025-01-10 23:54:15,783 - INFO -  * Debugger PIN: 626-348-380
+2025-01-10 23:54:25,602 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:54:25,845 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:54:25,846 - INFO - Configuración guardada correctamente.
+2025-01-10 23:54:25,846 - INFO - Job: Limpiar Papelera
+2025-01-10 23:54:25,846 - INFO - Papelera limpiada
+2025-01-10 23:54:25,847 - INFO - Configuración guardada correctamente.
+2025-01-10 23:55:16,512 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:55:16,795 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:55:16,796 - INFO - Configuración guardada correctamente.
+2025-01-10 23:55:22,661 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:55:22,922 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:55:22,923 - INFO - Configuración guardada correctamente.
+2025-01-10 23:55:25,935 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:55:26,178 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:55:26,179 - INFO - Configuración guardada correctamente.
+2025-01-10 23:55:26,179 - INFO - Job: Limpiar Papelera
+2025-01-10 23:55:26,179 - INFO - Papelera limpiada
+2025-01-10 23:55:26,180 - INFO - Configuración guardada correctamente.
+2025-01-10 23:56:16,540 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:56:16,799 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:56:16,800 - INFO - Configuración guardada correctamente.
+2025-01-10 23:56:17,836 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:56:18,082 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:56:18,082 - INFO - Configuración guardada correctamente.
+2025-01-10 23:56:26,345 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:56:26,592 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:56:26,593 - INFO - Configuración guardada correctamente.
+2025-01-10 23:56:26,594 - INFO - Job: Limpiar Papelera
+2025-01-10 23:56:26,594 - INFO - Papelera limpiada
+2025-01-10 23:56:26,595 - INFO - Configuración guardada correctamente.
+2025-01-10 23:57:19,119 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:57:19,369 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:57:19,370 - INFO - Configuración guardada correctamente.
+2025-01-10 23:57:23,706 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:57:23,969 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:57:23,970 - INFO - Configuración guardada correctamente.
+2025-01-10 23:57:27,250 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:57:27,519 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:57:27,520 - INFO - Configuración guardada correctamente.
+2025-01-10 23:57:27,520 - INFO - Job: Limpiar Papelera
+2025-01-10 23:57:27,520 - INFO - Papelera limpiada
+2025-01-10 23:57:27,522 - INFO - Configuración guardada correctamente.
+2025-01-10 23:58:17,417 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:58:17,692 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:58:17,693 - INFO - Configuración guardada correctamente.
+2025-01-10 23:58:19,791 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:58:20,036 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:58:20,036 - INFO - Configuración guardada correctamente.
+2025-01-10 23:58:27,700 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:58:27,963 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:58:27,964 - INFO - Configuración guardada correctamente.
+2025-01-10 23:58:27,964 - INFO - Job: Limpiar Papelera
+2025-01-10 23:58:27,965 - INFO - Papelera limpiada
+2025-01-10 23:58:27,965 - INFO - Configuración guardada correctamente.
+2025-01-10 23:59:20,357 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:59:20,594 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:59:20,595 - INFO - Configuración guardada correctamente.
+2025-01-10 23:59:24,161 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:59:24,419 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:59:24,420 - INFO - Configuración guardada correctamente.
+2025-01-10 23:59:28,631 - INFO - Job: Usuarios Logeados + Email
+2025-01-10 23:59:28,896 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-10 23:59:28,897 - INFO - Configuración guardada correctamente.
+2025-01-10 23:59:28,897 - INFO - Job: Limpiar Papelera
+2025-01-10 23:59:28,898 - INFO - Papelera limpiada
+2025-01-10 23:59:28,898 - INFO - Configuración guardada correctamente.
+2025-01-11 00:00:17,761 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:00:18,009 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:00:18,010 - INFO - Configuración guardada correctamente.
+2025-01-11 00:00:21,011 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:00:21,266 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:00:21,268 - INFO - Configuración guardada correctamente.
+2025-01-11 00:00:29,415 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:00:29,693 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:00:29,695 - INFO - Configuración guardada correctamente.
+2025-01-11 00:00:29,695 - INFO - Job: Limpiar Papelera
+2025-01-11 00:00:29,695 - INFO - Papelera limpiada
+2025-01-11 00:00:29,696 - INFO - Configuración guardada correctamente.
+2025-01-11 00:01:21,440 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:01:21,677 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:01:21,678 - INFO - Configuración guardada correctamente.
+2025-01-11 00:01:24,587 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:01:24,825 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:01:24,826 - INFO - Configuración guardada correctamente.
+2025-01-11 00:01:29,839 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:01:30,134 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:01:30,136 - INFO - Configuración guardada correctamente.
+2025-01-11 00:01:30,136 - INFO - Job: Limpiar Papelera
+2025-01-11 00:01:30,136 - INFO - Papelera limpiada
+2025-01-11 00:01:30,136 - INFO - Configuración guardada correctamente.
+2025-01-11 00:02:18,173 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:02:18,453 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:02:18,453 - INFO - Configuración guardada correctamente.
+2025-01-11 00:02:22,565 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:02:22,826 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:02:22,826 - INFO - Configuración guardada correctamente.
+2025-01-11 00:02:30,339 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:02:30,603 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:02:30,604 - INFO - Configuración guardada correctamente.
+2025-01-11 00:02:30,604 - INFO - Job: Limpiar Papelera
+2025-01-11 00:02:30,604 - INFO - Papelera limpiada
+2025-01-11 00:02:30,605 - INFO - Configuración guardada correctamente.
+2025-01-11 00:03:23,518 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:03:23,778 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:03:23,778 - INFO - Configuración guardada correctamente.
+2025-01-11 00:03:25,214 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:03:25,473 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:03:25,475 - INFO - Configuración guardada correctamente.
+2025-01-11 00:03:31,584 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:03:31,850 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:03:31,851 - INFO - Configuración guardada correctamente.
+2025-01-11 00:03:31,851 - INFO - Job: Limpiar Papelera
+2025-01-11 00:03:31,851 - INFO - Papelera limpiada
+2025-01-11 00:03:31,852 - INFO - Configuración guardada correctamente.
+2025-01-11 00:04:00,002 - INFO - Job: Limpiar Papelera
+2025-01-11 00:04:00,002 - INFO - Papelera limpiada
+2025-01-11 00:04:00,005 - INFO - Configuración guardada correctamente.
+2025-01-11 00:04:00,511 - INFO - Job: Limpiar Papelera
+2025-01-11 00:04:00,512 - INFO - Papelera limpiada
+2025-01-11 00:04:00,512 - INFO - Configuración guardada correctamente.
+2025-01-11 00:04:19,201 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:04:19,476 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:04:19,477 - INFO - Configuración guardada correctamente.
+2025-01-11 00:04:24,494 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:04:24,780 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:04:24,781 - INFO - Configuración guardada correctamente.
+2025-01-11 00:04:32,592 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:04:32,838 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:04:32,839 - INFO - Configuración guardada correctamente.
+2025-01-11 00:04:32,839 - INFO - Job: Limpiar Papelera
+2025-01-11 00:04:32,839 - INFO - Papelera limpiada
+2025-01-11 00:04:32,841 - INFO - Configuración guardada correctamente.
+2025-01-11 00:05:24,957 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:05:25,221 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:05:25,223 - INFO - Configuración guardada correctamente.
+2025-01-11 00:05:26,016 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:05:26,258 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:05:26,259 - INFO - Configuración guardada correctamente.
+2025-01-11 00:05:33,271 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:05:33,505 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:05:33,506 - INFO - Configuración guardada correctamente.
+2025-01-11 00:05:33,506 - INFO - Job: Limpiar Papelera
+2025-01-11 00:05:33,506 - INFO - Papelera limpiada
+2025-01-11 00:05:33,507 - INFO - Configuración guardada correctamente.
+2025-01-11 00:06:20,434 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:06:20,744 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:06:20,745 - INFO - Configuración guardada correctamente.
+2025-01-11 00:06:25,759 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:06:26,064 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:06:26,067 - INFO - Configuración guardada correctamente.
+2025-01-11 00:06:33,715 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:06:34,034 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:06:34,035 - INFO - Configuración guardada correctamente.
+2025-01-11 00:06:34,036 - INFO - Job: Limpiar Papelera
+2025-01-11 00:06:34,037 - INFO - Papelera limpiada
+2025-01-11 00:06:34,038 - INFO - Configuración guardada correctamente.
+2025-01-11 00:07:27,093 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:07:27,206 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:07:27,341 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:07:27,342 - INFO - Configuración guardada correctamente.
+2025-01-11 00:07:27,447 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:07:27,448 - INFO - Configuración guardada correctamente.
+2025-01-11 00:07:34,544 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:07:34,806 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:07:34,806 - INFO - Configuración guardada correctamente.
+2025-01-11 00:07:34,807 - INFO - Job: Limpiar Papelera
+2025-01-11 00:07:34,807 - INFO - Papelera limpiada
+2025-01-11 00:07:34,807 - INFO - Configuración guardada correctamente.
+2025-01-11 00:08:20,803 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:08:21,127 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:08:21,128 - INFO - Configuración guardada correctamente.
+2025-01-11 00:08:28,149 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:08:28,430 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:08:28,446 - INFO - Configuración guardada correctamente.
+2025-01-11 00:08:35,645 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:08:35,931 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:08:35,932 - INFO - Configuración guardada correctamente.
+2025-01-11 00:08:35,932 - INFO - Job: Limpiar Papelera
+2025-01-11 00:08:35,933 - INFO - Papelera limpiada
+2025-01-11 00:08:35,935 - INFO - Configuración guardada correctamente.
+2025-01-11 00:09:28,253 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:09:28,510 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:09:28,511 - INFO - Configuración guardada correctamente.
+2025-01-11 00:09:29,165 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:09:29,429 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:09:29,430 - INFO - Configuración guardada correctamente.
+2025-01-11 00:09:35,939 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:09:36,178 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:09:36,179 - INFO - Configuración guardada correctamente.
+2025-01-11 00:09:36,180 - INFO - Job: Limpiar Papelera
+2025-01-11 00:09:36,180 - INFO - Papelera limpiada
+2025-01-11 00:09:36,181 - INFO - Configuración guardada correctamente.
+2025-01-11 00:10:22,112 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:10:22,388 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:10:22,388 - INFO - Configuración guardada correctamente.
+2025-01-11 00:10:30,424 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:10:30,672 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:10:30,673 - INFO - Configuración guardada correctamente.
+2025-01-11 00:10:36,936 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:10:37,204 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:10:37,206 - INFO - Configuración guardada correctamente.
+2025-01-11 00:10:37,206 - INFO - Job: Limpiar Papelera
+2025-01-11 00:10:37,206 - INFO - Papelera limpiada
+2025-01-11 00:10:37,208 - INFO - Configuración guardada correctamente.
+2025-01-11 00:11:28,791 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:11:29,117 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:11:29,118 - INFO - Configuración guardada correctamente.
+2025-01-11 00:11:31,428 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:11:31,692 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:11:31,693 - INFO - Configuración guardada correctamente.
+2025-01-11 00:11:38,194 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:11:38,441 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:11:38,442 - INFO - Configuración guardada correctamente.
+2025-01-11 00:11:38,442 - INFO - Job: Limpiar Papelera
+2025-01-11 00:11:38,442 - INFO - Papelera limpiada
+2025-01-11 00:11:38,443 - INFO - Configuración guardada correctamente.
+2025-01-11 00:12:22,822 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:12:23,181 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:12:23,183 - INFO - Configuración guardada correctamente.
+2025-01-11 00:12:32,219 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:12:32,561 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:12:32,571 - INFO - Configuración guardada correctamente.
+2025-01-11 00:12:38,679 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:12:38,922 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:12:38,924 - INFO - Configuración guardada correctamente.
+2025-01-11 00:12:38,924 - INFO - Job: Limpiar Papelera
+2025-01-11 00:12:38,924 - INFO - Papelera limpiada
+2025-01-11 00:12:38,925 - INFO - Configuración guardada correctamente.
+2025-01-11 00:13:29,384 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:13:29,693 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:13:29,695 - INFO - Configuración guardada correctamente.
+2025-01-11 00:13:33,139 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:13:33,455 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:13:33,456 - INFO - Configuración guardada correctamente.
+2025-01-11 00:13:39,709 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:13:40,055 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:13:40,057 - INFO - Configuración guardada correctamente.
+2025-01-11 00:13:40,057 - INFO - Job: Limpiar Papelera
+2025-01-11 00:13:40,057 - INFO - Papelera limpiada
+2025-01-11 00:13:40,057 - INFO - Configuración guardada correctamente.
+2025-01-11 00:14:23,749 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:14:24,058 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:14:24,059 - INFO - Configuración guardada correctamente.
+2025-01-11 00:14:34,089 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:14:34,363 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:14:34,364 - INFO - Configuración guardada correctamente.
+2025-01-11 00:14:40,898 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:14:41,165 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:14:41,168 - INFO - Configuración guardada correctamente.
+2025-01-11 00:14:41,168 - INFO - Job: Limpiar Papelera
+2025-01-11 00:14:41,168 - INFO - Papelera limpiada
+2025-01-11 00:14:41,169 - INFO - Configuración guardada correctamente.
+2025-01-11 00:15:30,491 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:15:30,760 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:15:30,760 - INFO - Configuración guardada correctamente.
+2025-01-11 00:15:34,891 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:15:35,264 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:15:35,265 - INFO - Configuración guardada correctamente.
+2025-01-11 00:15:41,656 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:15:41,933 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:15:41,934 - INFO - Configuración guardada correctamente.
+2025-01-11 00:15:41,935 - INFO - Job: Limpiar Papelera
+2025-01-11 00:15:41,935 - INFO - Papelera limpiada
+2025-01-11 00:15:41,936 - INFO - Configuración guardada correctamente.
+2025-01-11 00:16:24,902 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:16:25,197 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:16:25,198 - INFO - Configuración guardada correctamente.
+2025-01-11 00:16:36,215 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:16:36,463 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:16:36,465 - INFO - Configuración guardada correctamente.
+2025-01-11 00:16:42,510 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:16:42,774 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:16:42,791 - INFO - Configuración guardada correctamente.
+2025-01-11 00:16:42,798 - INFO - Job: Limpiar Papelera
+2025-01-11 00:16:42,798 - INFO - Papelera limpiada
+2025-01-11 00:16:42,807 - INFO - Configuración guardada correctamente.
+2025-01-11 00:17:31,706 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:17:31,969 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:17:31,970 - INFO - Configuración guardada correctamente.
+2025-01-11 00:17:37,220 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:17:37,460 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:17:37,461 - INFO - Configuración guardada correctamente.
+2025-01-11 00:17:42,991 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:17:43,252 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:17:43,253 - INFO - Configuración guardada correctamente.
+2025-01-11 00:17:43,253 - INFO - Job: Limpiar Papelera
+2025-01-11 00:17:43,253 - INFO - Papelera limpiada
+2025-01-11 00:17:43,254 - INFO - Configuración guardada correctamente.
+2025-01-11 00:18:25,553 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:18:25,814 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:18:25,815 - INFO - Configuración guardada correctamente.
+2025-01-11 00:18:37,756 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:18:37,995 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:18:37,996 - INFO - Configuración guardada correctamente.
+2025-01-11 00:18:43,754 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:18:44,040 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:18:44,041 - INFO - Configuración guardada correctamente.
+2025-01-11 00:18:44,041 - INFO - Job: Limpiar Papelera
+2025-01-11 00:18:44,041 - INFO - Papelera limpiada
+2025-01-11 00:18:44,042 - INFO - Configuración guardada correctamente.
+2025-01-11 00:19:32,260 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:19:32,526 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:19:32,526 - INFO - Configuración guardada correctamente.
+2025-01-11 00:19:38,412 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:19:38,699 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:19:38,700 - INFO - Configuración guardada correctamente.
+2025-01-11 00:19:44,725 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:19:44,992 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:19:44,992 - INFO - Configuración guardada correctamente.
+2025-01-11 00:19:44,992 - INFO - Job: Limpiar Papelera
+2025-01-11 00:19:44,993 - INFO - Papelera limpiada
+2025-01-11 00:19:44,993 - INFO - Configuración guardada correctamente.
+2025-01-11 00:20:26,592 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:20:26,897 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:20:26,898 - INFO - Configuración guardada correctamente.
+2025-01-11 00:20:39,306 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:20:39,554 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:20:39,555 - INFO - Configuración guardada correctamente.
+2025-01-11 00:20:45,651 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:20:45,970 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:20:46,064 - INFO - Configuración guardada correctamente.
+2025-01-11 00:20:46,064 - INFO - Job: Limpiar Papelera
+2025-01-11 00:20:46,064 - INFO - Papelera limpiada
+2025-01-11 00:20:46,064 - INFO - Configuración guardada correctamente.
+2025-01-11 00:21:33,429 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:21:33,700 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:21:33,701 - INFO - Configuración guardada correctamente.
+2025-01-11 00:21:39,839 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:21:40,117 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:21:40,117 - INFO - Configuración guardada correctamente.
+2025-01-11 00:21:46,795 - INFO - Job: Usuarios Logeados + Email
+2025-01-11 00:21:47,102 - ERROR - Error al enviar correo: 'NoneType' object has no attribute 'encode'
+2025-01-11 00:21:47,102 - INFO - Configuración guardada correctamente.
+2025-01-11 00:21:47,102 - INFO - Job: Limpiar Papelera
+2025-01-11 00:21:47,102 - INFO - Papelera limpiada
+2025-01-11 00:21:47,103 - INFO - Configuración guardada correctamente.
