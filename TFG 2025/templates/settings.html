@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}Ajustes - Job Scheduler{% endblock %}
+
+
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configuración</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Configuración del Sistema</h1>
+        <form method="post" action="{{ url_for('settings') }}">
+            <div class="mb-3">
+                <label for="smtp_server" class="form-label">Servidor SMTP</label>
+                <input type="text" id="smtp_server" name="smtp_server" class="form-control" value="{{ config.email.smtp_server }}">
+            </div>
+            <div class="mb-3">
+                <label for="smtp_port" class="form-label">Puerto SMTP</label>
+                <input type="number" id="smtp_port" name="smtp_port" class="form-control" value="{{ config.email.smtp_port }}">
+            </div>
+            <div class="mb-3">
+                <label for="memory_alert_threshold" class="form-label">Umbral de Memoria (%)</label>
+                <input type="number" id="memory_alert_threshold" name="memory_alert_threshold" class="form-control" value="{{ config.memory_alert_threshold }}">
+            </div>
+            <button type="submit" class="btn btn-success">Guardar</button>
+        </form>
+    </div>
+</body>
+</html>
+{% endblock %}

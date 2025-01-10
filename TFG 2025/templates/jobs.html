@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+
+{% block title %}Tareas Programadas - Job Scheduler{% endblock %}
+
+{% block content %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tareas Programadas</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+    <h1 class="mb-4">Tareas Programadas</h1>
+    
+    <!-- Mostrar mensajes flash -->
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}
+          <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+            {{ message }}
+            <button type="button" class="close" data-dismiss="alert" aria-label="Cerrar">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+    
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Tarea</th>
+                <th>Intervalo</th>
+                <th>Detalles</th>
+                <th>Acciones</th> 
+            </tr>
+        </thead>
+        <tbody>
+            {% for job in jobs %}
+            <tr>
+                <td>{{ loop.index }}</td>
+                <td>{{ job.task }}</td>
+                <td>{{ job.interval }}</td>
+                <td>
+                    {% if job.interval == 'daily' %}
+                        Hora: {{ job.time }}
+                    {% elif job.interval == 'hourly' %}
+                        Minuto: {{ job.minute }}
+                    {% elif job.interval == 'minute' %}
+                        Cada: {{ job.minutes }} minutos
+                    {% endif %}
+                    {% if job.script %}
+                        <br>Script: {{ job.script }}
+                    {% endif %}
+                </td>
+                <td>
+                    <!-- Formulario para eliminar la tarea -->
+                    <form action="{{ url_for('delete_job') }}" method="POST" onsubmit="return confirm('¿Estás seguro de que deseas eliminar esta tarea?');">
+                        <input type="hidden" name="job_id" value="{{ job.id }}">
+                        <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                    </form>
+                    
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    
+    <!-- Botón para añadir una nueva tarea -->
+    <a href="{{ url_for('add_job') }}" class="btn btn-primary">Añadir Nueva Tarea</a>
+    </div>
+    
+    <!-- Scripts de bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+{% endblock %}

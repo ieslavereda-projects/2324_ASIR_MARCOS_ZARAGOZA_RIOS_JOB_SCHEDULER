@@ -1,0 +1,127 @@
+<!-- templates/add_job.html -->
+
+{% extends "base.html" %}
+
+{% block title %}Añadir Tarea - Job Scheduler{% endblock %}
+
+{% block content %}
+    <h1 class="mb-4">Añadir Nueva Tarea Programada</h1>
+    
+    <form action="{{ url_for('add_job') }}" method="POST">
+        {% if csrf_token %}
+            {{ csrf_token() }} 
+        {% endif %}
+        
+        <!-- Campo para seleccionar la tarea -->
+        <div class="form-group mb-4">
+            <label for="task">Tarea</label>
+            <select class="form-control" id="task" name="task" required>
+                <option value="">Selecciona una tarea</option>
+                {% for task in tasks %}
+                    <option value="{{ task.name }}" data-description="{{ task.description }}">{{ task.name }}</option>
+                {% endfor %}
+            </select>
+            <small id="taskDescription" class="form-text text-muted mt-2"></small>
+        </div>
+        
+        <!-- Campo para seleccionar el intervalo -->
+        <div class="form-group mb-4">
+            <label for="interval">Intervalo</label>
+            <select class="form-control" id="interval" name="interval" required>
+                <option value="">Selecciona un intervalo</option>
+                <option value="daily">Diario</option>
+                <option value="hourly">Cada Hora</option>
+                <option value="minute">Cada Minuto</option>
+            </select>
+        </div>
+        
+        <!-- Campos dependientes del intervalo -->
+        <div class="form-row">
+            <!-- Campo para la hora (solo para diario) -->
+            <div class="form-group col-md-6 mb-4" id="timeField" style="display: none;">
+                <label for="time">Hora (solo para diario)</label>
+                <input type="time" class="form-control" id="time" name="time">
+            </div>
+            
+            <!-- Campo para el minuto (solo para cada hora) -->
+            <div class="form-group col-md-6 mb-4" id="minuteField" style="display: none;">
+                <label for="minute">Minuto (solo para cada hora)</label>
+                <input type="number" class="form-control" id="minute" name="minute" min="0" max="59" placeholder="Ej: 05">
+            </div>
+        </div>
+        
+        <div class="form-group mb-4" id="minutesField" style="display: none;">
+            <label for="minutes">Cada (minutos, solo para cada minuto)</label>
+            <input type="number" class="form-control" id="minutes" name="minutes" min="1" placeholder="Ej: 15">
+        </div>
+        
+        <!-- Campo para la ruta del script -->
+        <div class="form-group mb-4">
+            <label for="script">Ruta del Script (opcional)</label>
+            <input type="text" class="form-control" id="script" name="script" placeholder="/ruta/al/script.sh">
+        </div>
+        
+        <!-- Botones -->
+        <div class="form-group">
+            <button type="submit" class="btn btn-success mr-2">Guardar Tarea</button>
+            <a href="{{ url_for('jobs') }}" class="btn btn-secondary">Cancelar</a>
+        </div>
+    </form>
+    
+    <script>
+        // JavaScript para mostrar la descripción de la tarea seleccionada
+        document.addEventListener('DOMContentLoaded', function() {
+            const taskSelect = document.getElementById('task');
+            const taskDescription = document.getElementById('taskDescription');
+
+            taskSelect.addEventListener('change', function() {
+                const selectedOption = taskSelect.options[taskSelect.selectedIndex];
+                const description = selectedOption.getAttribute('data-description') || '';
+                taskDescription.textContent = description;
+            });
+
+            // Mostrar la descripción si ya hay una tarea seleccionada (por ejemplo, después de un error)
+            if (taskSelect.value) {
+                const selectedOption = taskSelect.options[taskSelect.selectedIndex];
+                const description = selectedOption.getAttribute('data-description') || '';
+                taskDescription.textContent = description;
+            }
+        });
+
+        // JavaScript para mostrar/ocultar campos según el intervalo seleccionado
+        document.addEventListener('DOMContentLoaded', function() {
+            const intervalSelect = document.getElementById('interval');
+            const timeField = document.getElementById('timeField');
+            const minuteField = document.getElementById('minuteField');
+            const minutesField = document.getElementById('minutesField');
+            
+            function updateFields() {
+                const selected = intervalSelect.value;
+                
+                if (selected === 'daily') {
+                    timeField.style.display = 'block';
+                } else {
+                    timeField.style.display = 'none';
+                    document.getElementById('time').value = '';
+                }
+
+                if (selected === 'hourly') {
+                    minuteField.style.display = 'block';
+                } else {
+                    minuteField.style.display = 'none';
+                    document.getElementById('minute').value = '';
+                }
+
+                if (selected === 'minute') {
+                    minutesField.style.display = 'block';
+                } else {
+                    minutesField.style.display = 'none';
+                    document.getElementById('minutes').value = '';
+                }
+            }
+            
+            intervalSelect.addEventListener('change', updateFields);
+            updateFields(); // Inicializar la visibilidad
+        });
+    </script>
+{% endblock %}
