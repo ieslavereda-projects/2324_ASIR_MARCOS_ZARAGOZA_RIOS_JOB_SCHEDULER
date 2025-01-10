@@ -1,3 +1,7 @@
 schedule
 psutil
 pyfiglet
+Flask
+APScheduler
+paramiko
+gunicorn
